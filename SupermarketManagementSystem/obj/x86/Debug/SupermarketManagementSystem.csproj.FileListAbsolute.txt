@@ -1,0 +1,15 @@
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.Login.resources
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.Properties.Resources.resources
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.csproj.GenerateResource.Cache
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\bin\Debug\SupermarketManagementSystem.exe.config
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.MainMenu.resources
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.Product.resources
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\bin\Debug\SupermarketDB.mdf
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\bin\Debug\SupermarketDB_log.ldf
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\bin\Debug\SupermarketManagementSystem.exe
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\bin\Debug\SupermarketManagementSystem.pdb
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.exe
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.pdb
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.Customer.resources
+c:\users\sakshi\documents\visual studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.Order.resources
+C:\Users\Sakshi\Documents\Visual Studio 2010\Projects\SupermarketManagementSystem\SupermarketManagementSystem\obj\x86\Debug\SupermarketManagementSystem.csprojResolveAssemblyReference.cache
