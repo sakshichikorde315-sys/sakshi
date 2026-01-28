@@ -1,1 +1,1 @@
-Testing Git Hub
+Testing integration with Git Hub
